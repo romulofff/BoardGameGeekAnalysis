@@ -1,2 +1,4 @@
 venv/
 database.sqlite
+*.png
+.ipynb_checkpoints/
